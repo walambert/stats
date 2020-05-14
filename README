@@ -1,0 +1,3 @@
+This repo will host my implementations of different statistical methods.
+First two languages used will be Pyton and R, with the goal of adding Haskell, Clojure, 
+Go, and Rust implementations for each method in the future.
